@@ -1,0 +1,18 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 20px;
+    border: 2px solid rgb(169, 29, 29);
+    border-radius: 10px;
+}
+
+.login input{
+    font-size: 16px;
+    padding: 10px;
+}

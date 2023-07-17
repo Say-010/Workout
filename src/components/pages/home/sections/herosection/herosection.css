@@ -1,0 +1,29 @@
+.hero-wrapper{
+    position: relative;
+    background-image: url("https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    
+}
+
+.hero {
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
+.hero h1 {
+    color: white;
+    font-size: 2.5em;
+    line-height: 1.5em;
+}
+.hero-text{
+    color: #dd3500;
+}
+.hero .joinUs{
+    color: white;
+    font-size: 2.5em;
+    line-height: 1.5em;
+
+}

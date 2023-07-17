@@ -1,0 +1,30 @@
+.whySec_wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3em;
+}
+.why_content{
+    text-align: left;
+    width: 40%;
+}
+.why_content h3 {
+    margin: 0px;
+    
+}
+.why_content h1{
+    color: #dd3500;
+    font-size: 2em;
+}
+.why_content p{
+    color: #787777;
+}
+.why_content button {
+    background-color: #dd3500;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
